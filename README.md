@@ -1,7 +1,3 @@
-For the **"Forest Fire Detection using CNN"** project, here's a comprehensive README file that you can use or modify to fit the project details:
-
----
-
 # Forest Fire Detection using Convolutional Neural Networks (CNN)
 
 ![Project Banner](https://link-to-project-banner.com)  
